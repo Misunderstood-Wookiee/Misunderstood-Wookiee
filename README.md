@@ -1,6 +1,6 @@
 ![MoistDreams GitHub Stats](https://github-readme-stats.vercel.app/api?username=Misunderstood-Wookiee&show_icons=true&theme=midnight-purple&bg_color=00000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misunderstood-Wookiee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misunderstood-Wookiee&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Welcome 
 - ❔ I'm MoistDreams and I'm a hobbyist programmer, gamer, commercial photographer & digital asset creator.
@@ -10,5 +10,5 @@
 - 💬 Ask me about my projects and be kind.
 - 📫 Reach out on: Discord (ʢMo¡stDreaɱsʡ#4413)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Misunderstood-Wookiee&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- <a href='https://ko-fi.com/H2H23ED52' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> -->
