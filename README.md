@@ -1,7 +1,7 @@
 ![MoistDreams GitHub Stats](https://github-readme-stats.vercel.app/api?username=Misunderstood-Wookiee&show_icons=true&theme=midnight-purple&bg_color=00000000)
 ## Welcome 
 - ❔ I'm MoistDreams and I'm a hobbyist programmer, gamer, commercial photographer & digital asset creator.
-- 😄 Pronouns: Him/They
+- 😄 Pronouns: What?
 - 🌱 I’m currently learning how too make UWP apps & learning C#.
 - 👯 I’m looking to collaborate on wiki editing, game modding & app devlopment ideas.
 - 💬 Ask me about my projects and be kind.
